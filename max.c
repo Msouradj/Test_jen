@@ -6,6 +6,7 @@ int max (int n1, int n2 )
    return n1;
 }
 
+
 int main(){
    max(1,2);
 }
